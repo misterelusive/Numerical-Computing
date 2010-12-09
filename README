@@ -1,2 +1,10 @@
 false.c - false position method
 newton.c - Newton-Raphson method
+muller.c - Muller's method
+g_elim.cpp - Gauss elimination method
+pivot.c - Gauss elimination method with partial pivoting
+seidel.c - Gauss-Seidel iterative technique
+lagrange.c - Lagrange's method of interpolation
+trape.c - Trapezoidal rule
+runge.c - Fourth order Runge-Kutta method
+milne.c - Milne's method for solving first order IVP (Initial Value Problem)
